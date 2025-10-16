@@ -8,8 +8,7 @@ This script automatically splits your **LiveSplit** timer whenever your in-game 
 
 - A **Roblox executor** that supports the `WebSocket` library. Use https://whatexpsare.online/ to figure out what executors are currently online  and working.
 
-- **LiveSplit** with the **LiveSplit Server** component 
-
+- **LiveSplit** with the **LiveSplit Server** component, and splits for the specific category you are running.
 
 ---
 
