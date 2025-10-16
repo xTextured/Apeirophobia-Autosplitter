@@ -1,4 +1,4 @@
-# Apeirophobia  Autosplitter 
+# Apeirophobia  AutoSplitter 
 
 This script automatically splits your **LiveSplit** timer whenever your in-game level changes.
 
@@ -82,3 +82,9 @@ levelValue:GetPropertyChangedSignal("Value"):Connect(function()
     end
 end)
 ```
+
+---
+
+## Category Support
+
+The AutoSplitter supports all fullgame categories. The default category is pre-classic, to switch a category simply switch the if condition (if newLevel == PRE_CLASSIC_END) to your desired category from the constants above.
